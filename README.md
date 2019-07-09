@@ -43,7 +43,7 @@ An organized reading list for illustrating the patterns of scalable, reliable, a
 * [Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 * [High Cohesion and Low Coupling](http://www.math-cs.gordon.edu/courses/cs211/lectures-2009/Cohesion,Coupling,MVC.pdf)
 * [~~Monoliths and Microservices~~](https://medium.com/@SkyscannerEng/monoliths-and-microservices-8c65708c3dbf)
-* [CAP Theorem and Trade-offs](http://robertgreiner.com/2014/08/cap-theorem-revisited/)
+* [~~CAP Theorem and Trade-offs~~](http://robertgreiner.com/2014/08/cap-theorem-revisited/)
 * [CP Databases and AP Databases](https://blog.andyet.com/2014/10/01/right-database)
 * [Stateless vs Stateful Scalability](http://ithare.com/scaling-stateful-objects/)	
 * [Scale Up vs Scale Out](https://www.brianjgraf.com/2013/05/17/scalability-scale-up-scale-out-care/)
